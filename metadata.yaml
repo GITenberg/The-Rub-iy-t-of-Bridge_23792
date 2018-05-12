@@ -1,0 +1,38 @@
+_repo: The-Rub-iy-t-of-Bridge_23792
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Preston, May Wilson
+    birthdate: 1873
+    deathdate: 1949
+    gutenberg_agent_id: '7318'
+    url: http://www.gutenberg.org/2009/agents/7318
+covers:
+- cover_type: archival
+  image_path: 23792-h/images/cover.png
+creator:
+  author:
+    agent_name: Wells, Carolyn
+    alias: Houghton, Carolyn Wells
+    birthdate: 1862
+    deathdate: 1942
+    gutenberg_agent_id: '1060'
+    url: http://www.gutenberg.org/2009/agents/1060
+    wikipedia: https://en.wikipedia.org/wiki/Carolyn_Wells
+description: ''
+gutenberg_issued: '2007-12-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23792'
+  lccn: 09010152
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Humorous poetry'
+- !lcc 'PS'
+- !lcsh 'Bridge whist'
+- !lcsh 'Omar Khayyam -- Parodies, imitations, etc.'
+title: The Rubáiyát of Bridge
+url: http://www.gutenberg.org/ebooks/23792
